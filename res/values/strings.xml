@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Pat Pat</string>
+	<string-array name="mainMenuOptions">
+		<item>1 Player</item>
+		<item>2 Players</item>
+		<item>High Scores</item>
+	</string-array>
+	<string-array name="highScores">
+		<item>1. 21340 (None)</item>
+		<item>2. 17890 (Second to none)</item>
+		<item>3. 14350 (Rok)</item>
+	</string-array>
+	<string name="mute">Mute</string>
+	<string name="unmute">Unmute</string>
+</resources>

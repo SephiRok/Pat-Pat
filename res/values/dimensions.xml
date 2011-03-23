@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="laneOffset">100dp</dimen>
+    
+    <dimen name="defaultText">16sp</dimen>
+    <dimen name="scoreText">20sp</dimen>
+</resources>
