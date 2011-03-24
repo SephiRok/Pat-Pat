@@ -1,3 +1,7 @@
+// Copyright Rok Breulj <sephirok@gmail.com> 2011.
+// Distributed under the Boost Software License, Version 1.0.
+// (See accompanying LICENSE file or http://www.boost.org/LICENSE_1_0.txt)
+
 package patpat.scene;
 
 import android.graphics.PorterDuff;

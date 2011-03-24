@@ -1,3 +1,7 @@
+// Copyright Rok Breulj <sephirok@gmail.com> 2011.
+// Distributed under the Boost Software License, Version 1.0.
+// (See accompanying LICENSE file or http://www.boost.org/LICENSE_1_0.txt)
+
 Pat Pat is a music rythm game for Android.
 
 A video of gameplay is located at http://www.youtube.com/watch?v=4FH1g8NtH1k.
@@ -9,5 +13,5 @@ Requires Android 2.2 device with a touch screen. Has only been tested on HTC
 Desire. 
 
 Resources/OsuBeatmapCoverter.awk can be used to convert osu!
-(http://osu.ppy.sh/) beatmaps to Pat Pat's .xml format which are then placed
-in a folder in the assets folder along with the audio file.
+(http://osu.ppy.sh/) beatmaps to Pat Pat's .xml format which then have to be
+placed in a folder in the assets folder along with the audio file.

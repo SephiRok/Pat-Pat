@@ -1,4 +1,9 @@
+# Copyright Rok Breulj <sephirok@gmail.com> 2011.
+# Distributed under the Boost Software License, Version 1.0.
+# (See accompanying LICENSE file or http://www.boost.org/LICENSE_1_0.txt)
+
 # Converts .osu beatmaps to PatPat .xml beatmaps.
+
 BEGIN { 
 	FS=":"
 	print "<?xml version=\"1.0\" encoding=\"utf-8\"?>"
